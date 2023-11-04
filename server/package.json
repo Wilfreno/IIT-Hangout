@@ -1,0 +1,29 @@
+{
+  "name": "iit-hangout",
+  "version": "1.0.0",
+  "description": "\"A web application that makes studying/reviewing with your friend more fun & interactive\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilfreno/IIT-Hangout.git"
+  },
+  "author": "Wilfreno B. Gayongan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilfreno/IIT-Hangout/issues"
+  },
+  "homepage": "https://github.com/Wilfreno/IIT-Hangout#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.23.0",
+    "@babel/core": "^7.23.2",
+    "@babel/node": "^7.22.19",
+    "@babel/preset-env": "^7.23.2",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
